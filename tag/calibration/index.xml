@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calibration | Personal Page of Qin Wenxiang</title>
+    <link>https://example.com/tag/calibration/</link>
+      <atom:link href="https://example.com/tag/calibration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Calibration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9ca97ffe96c96d72027c938859c82b25_3674529_512x512_fill_lanczos_center_3.png</url>
+      <title>Calibration</title>
+      <link>https://example.com/tag/calibration/</link>
+    </image>
+    
+    <item>
+      <title>Universal Calibration System for Lens Models</title>
+      <link>https://example.com/project/project2/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/project2/</guid>
+      <description>&lt;p&gt;The Graph Optimization idea is used in this system to establish a small hole model group problem and solve it. Any product that can be abstracted as small hole model, including camera and projector, can be processed to achieve its intrinsics and extrinsic&lt;/p&gt;
+&lt;p&gt;将相机、投影仪抽象为带镜头畸变的小孔成像模型，借鉴图优化思想，建立小孔成像模型群模型， 在每个小孔成像模型建立坐标系，可选择地处理观测数据，得到模型的内外参数，实现适用于任 何组合的万能标定&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

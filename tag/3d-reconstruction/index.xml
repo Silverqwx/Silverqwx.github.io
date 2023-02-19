@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Reconstruction | Personal Page of Qin Wenxiang</title>
+    <link>https://example.com/tag/3d-reconstruction/</link>
+      <atom:link href="https://example.com/tag/3d-reconstruction/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D Reconstruction</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu9ca97ffe96c96d72027c938859c82b25_3674529_512x512_fill_lanczos_center_3.png</url>
+      <title>3D Reconstruction</title>
+      <link>https://example.com/tag/3d-reconstruction/</link>
+    </image>
+    
+    <item>
+      <title>High-speed Dynamic Face 3D Reconstruction System</title>
+      <link>https://example.com/project/project8/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/project8/</guid>
+      <description>&lt;p&gt;Three self-developed 3D cameras and structured light cross-synchronous projection technology are used in this system to achieve high-speed capturing and 3D modeling of dynamic faces. Multi-3D camera joint calibration algorithm and multi-object joint ICP fine stitching algorithm are used in this system to ensure the quality of model. 200 models are acquired per second.&lt;/p&gt;
+&lt;p&gt;使用3台自研的3D相机，基于结构光交叉同步投影技术，使用多3D相机联合标定算法、多对象联合 ICP 精拼接算法，实现动态人脸的高速捕捉与三维建模&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Indoor Object Monitoring System under Earthquake Scene</title>
+      <link>https://example.com/project/project5/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/project5/</guid>
+      <description>&lt;p&gt;Multi-camera and self-made mode markers are used to solve 3D space coordinates, realize high-speed monitoring and record indoor objects’ trajectory, shaking and other status information.&lt;/p&gt;
+&lt;p&gt;使用多相机和惯导，建立相机-惯导系统，基于高速视觉和机器人感知技术，结合模式标记块，单目求解三维空间坐标，实现高速监测记录室内物体的轨迹、摇晃等状态信息&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Human Body 3D Modeling System</title>
+      <link>https://example.com/project/project6/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/project6/</guid>
+      <description>&lt;p&gt;Self-developed 3D camera and structured light cross-synchronous projection technology are used in this system to achieve 3D modeling of the human body.&lt;/p&gt;
+&lt;p&gt;使用自研的3D相机，基于结构光交叉同步投影技术，实现人体三维建模&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>High-speed 3D Reconstruction and Point Cloud Analysis System for Moving Targets</title>
+      <link>https://example.com/project/project3/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/project3/</guid>
+      <description>&lt;p&gt;Self-developed 3D camera and structured light cross-synchronous projection technology are used in this system to reconstruct living pig’s model. After completing the model reconstruction, the model is processed by steps of Denoising, alignment, registration, segmentation and measurement. At last, efficient and accurate living pig’s physical sign data is acquired.&lt;/p&gt;
+&lt;p&gt;使用自研的3D相机，基于结构光交叉同步投影技术，在0.042秒内完成全方位完整拍摄，实现活 猪实时三维建模，基于点云处理和多状态量联合估计技术，实现猪体点云数据的去噪、拼接、分 割、测量等处理，高效准确地获取活猪各项体征数据&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D Modeling System based on Single 3D Camera</title>
+      <link>https://example.com/project/project4/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/project4/</guid>
+      <description>&lt;p&gt;Self-developed 3D camera is used in this system to achieve 3D modeling of 3D objects. Lie algebra and non-linear optimization algorithm is used in this system to achieve pose estimation of 3D camera and elimination of accumulated error of loopback. Computer graphics technology is used in this system to achieve visualization of 3D models and human-computer interaction.&lt;/p&gt;
+&lt;p&gt;使用单台自研的3D相机，基于图像处理和姿态估计技术，实现物体三维建模，基于李代数封闭空 间技术，实现累计误差的回环消除，基于计算机图形学技术，实现三维模型的可视化与人机交互&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research, Development and Optimization of Structured Light 3D Camera</title>
+      <link>https://example.com/project/project1/</link>
+      <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/project1/</guid>
+      <description>&lt;p&gt;A camera and a projector are used to compose a projector-camera system. Gray-Phase code is used in this system to help achieve high-speed 3D reconstruction of the object surface. High-precision calibration algorithm and de-distortion algorithm are completed to ensure the accurary, and at last, accuracy of 0.01mm is achieved.&lt;/p&gt;
+&lt;p&gt;使用相机和投影仪，基于结构光编解码和多视图立体几何技术，实现物体表面高速三维重建，点云重建速度达到 30 副/秒，基于高精度标定和去畸变技术，消除畸变对重建结果的影响，利用 C++ 将软件部分模块化封装，已应用于多个项目和中科院自动化所苏州研究院的 3D 相机产品&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
